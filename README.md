@@ -23,7 +23,7 @@ This is an AI Caption Bot which takes an image as an input and displays output i
 
 ## Screenshots
 
-Working Porject Screenshots
+Working Project Screenshots
 https://drive.google.com/file/d/15k7Db4Tj4N6GKcOhJtzGrlOMZ-QhMgx0/view?usp=sharing
 https://drive.google.com/file/d/1eca6PT4FK912WZOXm1UpWvvnW49otFqH/view?usp=sharing
 
